@@ -10,5 +10,4 @@ problem-solving approaches, and lessons learned.
 Completed a Binary Bomb reverse-engineering challenge by analyzing
 the program and identifying the inputs required to complete it.
 
-- Status: Completed
-- [View project details](binary-bomb/README.md)
+
