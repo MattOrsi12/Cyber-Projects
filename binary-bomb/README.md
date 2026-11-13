@@ -6,4 +6,4 @@ moderately difficult. It really challenged my problem solving skills as well as 
 
 Here is the binary bomb if you would like to try it out yourself: [View bomb.exe](./windows/bomb.exe)
 
-My solution if you want to see it: 
+My solution if you want to see it: [solution](binary-bomb/solution)
