@@ -10,4 +10,6 @@ problem-solving approaches, and lessons learned.
 Completed a Binary Bomb reverse-engineering challenge by analyzing
 the program and identifying the inputs required to complete it.
 
+### [Systems & Network Programming Practice]
 
+Hands-on coding exercises
